@@ -9,8 +9,6 @@ This project predicts whether a bank customer is likely to churn or stay.
 - `Churn_Modelling.csv` - dataset
 - `churn modeling.ipynb` - notebook
 
-# 🏦 Bank Customer Churn Prediction
-
 ## 📌 Project Overview
 
 This project predicts whether a bank customer is likely to leave the bank (churn) or continue using the services.
